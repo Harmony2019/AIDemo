@@ -1,0 +1,7 @@
+#Thu Feb 09 01:55:00 CST 2017
+base.0=E\:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_749497643942aee65267eff37641cd0ccfce9cb5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_74d38db09a284bf11261fb137c3f598c8570201c\\classes.dex
+base.1=E\:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_74d38db09a284bf11261fb137c3f598c8570201c
+file.0=E\:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_749497643942aee65267eff37641cd0ccfce9cb5\\classes.dex

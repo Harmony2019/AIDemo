@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "E:\\MyApplication\\RobotDemo\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\MyApplication\\RobotDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

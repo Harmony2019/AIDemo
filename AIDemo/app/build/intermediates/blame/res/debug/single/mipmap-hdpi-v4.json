@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\me.jpg",
+        "source": "E:\\MyApplication\\RobotDemo\\app\\src\\main\\res\\mipmap-hdpi\\me.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\RobotDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\chat_bg_default.jpg",
+        "source": "E:\\MyApplication\\RobotDemo\\app\\src\\main\\res\\mipmap-hdpi\\chat_bg_default.jpg"
+    }
+]
